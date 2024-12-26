@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rock\\documents\\unreal projects\\groupe_7_projet_v2\\plugins\\procedurallygenerateddungeon\\source\\procedurallygenerateddungeon\\private\\procedurallygenerateddungeon.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rock\\documents\\unreal projects\\groupe_7_projet_v2\\intermediate\\build\\win64\\x64\\groupe_7_projeteditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\rock\\documents\\unreal projects\\groupe_7_projet_v2\\plugins\\procedurallygenerateddungeon\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\procedurallygenerateddungeon\\definitions.procedurallygenerateddungeon.h",
+            "c:\\users\\rock\\documents\\unreal projects\\groupe_7_projet_v2\\plugins\\procedurallygenerateddungeon\\source\\procedurallygenerateddungeon\\public\\procedurallygenerateddungeon.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

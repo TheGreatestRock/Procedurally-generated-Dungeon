@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProcedurallyGeneratedDungeon.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Rock\Documents\Unreal Projects\Groupe_7_Projet_V2\Intermediate\Build\Win64\x64\Groupe_7_ProjetEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\Rock\Documents\Unreal Projects\Groupe_7_Projet_V2\Plugins\ProcedurallyGeneratedDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProcedurallyGeneratedDungeon\ProcedurallyGeneratedDungeon.cpp.obj"
+"C:\Users\Rock\Documents\Unreal Projects\Groupe_7_Projet_V2\Plugins\ProcedurallyGeneratedDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProcedurallyGeneratedDungeon\Default.rc2.res"
+/OUT:"C:\Users\Rock\Documents\Unreal Projects\Groupe_7_Projet_V2\Plugins\ProcedurallyGeneratedDungeon\Intermediate\Build\Win64\x64\UnrealEditor\Development\ProcedurallyGeneratedDungeon\UnrealEditor-ProcedurallyGeneratedDungeon.lib"
